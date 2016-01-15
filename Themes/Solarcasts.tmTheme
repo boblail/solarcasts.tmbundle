@@ -13,6 +13,10 @@
 				<string>#24211E</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
+				<key>fontName</key>
+				<string>Monaco</string>
+				<key>fontSize</key>
+				<string>14pt</string>
 				<key>foreground</key>
 				<string>#ABA7A7</string>
 				<key>invisibles</key>
